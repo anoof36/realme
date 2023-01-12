@@ -1,0 +1,164 @@
+
+
+/* 2 x 2 image template recommend phones*/
+
+.img-template-section{
+    width: 1200px;
+    height: 695px;
+    margin: 30px auto 0 auto;
+}
+
+.img-template-section h1{
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+.img-template-section p{
+    font-size: 15px;
+    color: rgb(116, 116, 116);
+    font-family: sans-serif;
+    margin-bottom: 90px;
+}
+
+.img-template-section span{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: orangered;
+}
+
+
+.text-from{
+    font-size: 12px;
+}
+
+
+
+.img-size-4x4{
+    width: 220px;
+    height: 220px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+.left-container{
+    display: flex;
+    justify-content: space-between;
+    width: 590px;
+    height: 320px;
+    border-radius: 25px;
+    overflow: hidden;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+.inner-left{
+    width: 220px;
+    height: 220px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.inner-right{
+    width: 220px;
+    height: 220px;
+    margin-top: 20px;
+}
+
+.right-container{
+    display: flex;
+    justify-content: space-between;
+    width: 590px;
+    height: 320px;
+    border-radius: 25px;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 10px;
+}
+
+
+.discover-img{
+    width: 590px;
+    height:324px;
+}
+
+/* Dear to leap 1 x 2 template */
+
+
+.container-dare-to-leap{
+    width: 1200px;
+    height: 482px;
+    margin: 100px auto 10px auto;
+}
+
+
+.dare-img-container{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.left-dare-to-leap-container{
+    width: 388px;
+    height: 380px;
+    border-radius: 20px;
+    background-color: rgb(0, 0, 0);
+}
+
+.right-dare-to-leap-container{
+    width: 788px;
+    height: 380px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-image: url(https://image01.realme.net/general/20220920/1663638234748.jpg.webp);
+    background-size: 796px 380px;
+}
+
+.inner-text-dare{
+    width: 320px;
+    height: 250px;
+    color: white;
+    margin: 45px auto 0 auto;
+}
+
+.inner-text-dare h1{
+    font-size: 35px;
+}
+
+.inner-text-dare p{
+    font-size: 15px;
+    
+}
+
+.left-dare-to-leap-container a{
+    color: white;
+    margin-left: 40px;
+    text-decoration: none;
+}
+
+.inner-text-dare-end{
+    margin: 40px 0 30px 40px;
+
+}
+
+.inner-text-dare-end h1{
+    color: white;
+    font-size: 35px;
+}
+
+.end-image-text p{
+    color: white;
+    font-size: 15px;
+}
+
+.end-image-text a{
+    color: white;
+    margin-left: 40px;
+    text-decoration: none;
+}

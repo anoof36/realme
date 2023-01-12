@@ -1,0 +1,176 @@
+
+
+.delivery-deatails{
+    width: 1200px;
+    margin: 0 auto 0 auto;
+    background-color: white;
+    display: flex;
+    justify-content: space-between
+
+}
+
+
+
+.footer-contents{
+    background-color: rgb(249, 254, 255);
+    border-radius: 20px;
+    width: 285px;
+    height: 136px;
+
+}
+
+.footer-contents h1{
+    margin: 4px 0 0 0;
+    font-weight: 700;
+    font-size: 16px;
+}
+.footer-contents p{
+    font-size: 14px;
+    color: #666666;
+    margin: 0;
+    margin-top: 3px;
+}
+.footer-contents img{
+    width: 30px;
+    height: 30px;
+}
+
+
+
+/*     ****************************      */
+
+
+.footer-about-container{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px auto 0 auto;
+}
+
+.left-about-footer{
+    width: 750px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.left-about-footer p{
+    color: black;
+    font-weight: 900;
+}
+
+.footer-list ul{
+    padding: 0;
+    list-style: none;
+}
+
+.left-about-footer :hover{
+    color: rgb(255, 251, 0);
+}
+
+.left-about-footer a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+   
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.left-about-footer li{
+    list-style: none;
+}
+
+.right-about-footer{
+    margin-top: 30px;
+    width: 202px;
+    text-align: center;
+}
+
+.button-footer img{
+    width: 30px;
+    height: 30px;
+    margin-left: 12px;
+
+}
+
+
+.button-footer{
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    width: 182px;
+    height: 42px;
+    border: 1px solid black;
+    border-radius: 22px;
+    margin-left: 13px;
+    
+}
+
+
+
+
+
+
+
+
+.button-footer:hover{
+    color: white;
+    background-color: black;
+}
+
+.button-footer:hover p{
+    color: white;
+
+}
+
+
+.button-footer p{
+    font-weight: 900;
+    color: black;
+}
+
+
+.social-media{
+    margin: 40px 0 0 13px;
+    width: 180px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ending-note{
+    width: 1200px;
+    margin: 20px auto 30px auto;
+   
+}
+
+.ending-note a{
+    text-decoration: none;
+    color: rgb(99, 99, 99);
+}
+
+.ending-note:hover a{
+
+    color: rgb(0, 0, 0);
+}
+
+.footer-end{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.footer-end-list{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    color: gray;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-end p{
+    font-size: 12px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
